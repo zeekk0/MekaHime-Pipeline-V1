@@ -11,21 +11,11 @@ This folder contains an end-to-end voice pipeline that uses:
 3) Coqui TTS
 4) RVC voice conversion
 
-##########################
-KNOWN SYSTEM REQUIREMENTS
-##########################
-
 ## Environment used for this run
 
 - Tsted only on Linux (Ubuntu 24.04)
 - GPU: NVIDIA RTX 40-series with CUDA 12.7
 - Not guaranteed to work on other setups, but you can try.
-
-
-#############
-SETUP GUIDE
-#############
-
 
 ## Configure paths (required)
 
